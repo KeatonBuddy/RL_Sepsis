@@ -2,6 +2,8 @@
 ## Project Overview
 This project leverages offline reinforcement learning (RL) to identify critical states—known as "dead-end states"—in sepsis patients, where mortality becomes unavoidable despite any further treatments. Recognizing these states enables clinicians to proactively avoid treatments that may lead to negative outcomes, ultimately improving patient management in intensive care units (ICUs).
 
+*This work was conducted to fulfill the CS 9670 course requirement at the University of Western Ontario.*
+
 ## Background
 Sepsis is a severe, life-threatening medical condition caused by an extreme bodily response to infection, leading to rapid organ dysfunction and potential death if untreated. Reinforcement learning offers promising methods for analyzing historical patient data, particularly in identifying treatments to avoid rather than suggesting uncertain optimal interventions.
 
